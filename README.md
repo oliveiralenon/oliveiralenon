@@ -2,4 +2,4 @@
 
 <p>Engenheiro, mestrando em Sensoriamento Remoto no INPE.</p>
 
-<p>Sou um entusiasta da aplicação de métodos de Machine Learning na resolução de problemas, sendo este um dos meus principais tópicos de estudo na atualidade.</p>
+<p>Sou um entusiasta na automatização de processos e na aplicação de métodos de Machine Learning na resolução de problemas, sendo este um dos meus principais tópicos de estudo na atualidade.</p>
